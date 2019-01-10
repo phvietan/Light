@@ -1,0 +1,18 @@
+.course-tab {
+  color: #282c34;
+  cursor: pointer;
+  padding: 15px;
+  margin-top: 15px;
+}
+
+.course-tab:hover {
+  border-right: 3px solid #FA5A5B;
+}
+
+.course-tab h1 {
+  font-size: 1.5rem;
+}
+
+.course-tab h3 {
+  color: #FA5A5B;
+}

@@ -1,0 +1,46 @@
+#edit-news-header {
+  color: #FA5A5B;
+  align-items: center;
+}
+
+#edit-paragraph-news {
+  width: 55%;
+  position: absolute;
+  height: 100%;
+  margin-left: 20%;
+  top: 5rem;
+}
+
+#edit-paragraph-news .remove-button {
+  float: right;
+  color: red;
+  cursor: pointer;
+  margin-right: 6rem;
+}
+
+#edit-paragraph-news .remove-button:hover {
+  border-bottom: 1px solid red;
+}
+
+#edit-paragraph-news textarea {
+  border: none;
+  outline: none;
+  resize: none;
+  overflow: hidden;
+  color: #2e4453;
+  line-height: 1.5;
+  padding: 8px;
+}
+
+#edit-news-title {
+  font-size: 2em;
+}
+
+#edit-news-content {
+  font-size: 1.5em;
+}
+
+::placeholder {
+  color: #d9d8d8;
+  font-size: 1em;
+}

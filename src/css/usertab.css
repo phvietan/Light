@@ -1,0 +1,29 @@
+.user-tab {
+  color: #282c34;
+  cursor: pointer;
+  padding: 15px;
+  margin-top: 15px;
+}
+
+.user-tab:hover {
+  border-right: 3px solid #FA5A5B;
+}
+
+.user-tab:hover h2 {
+  margin-right: 17px;
+}
+
+.user-tab h1 {
+  font-size: 1.5rem;
+  float: left;
+}
+
+.user-tab h3 {
+  color: #FA5A5B;
+}
+
+.user-tab h2 {
+  font-size: 1.5rem;
+  float: right;
+  margin-right: 20px;
+}

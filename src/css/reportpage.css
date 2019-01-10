@@ -1,0 +1,83 @@
+#report-page-header {
+  color: #FA5A5B;
+  align-items: center;
+}
+
+#report-page {
+  color: #FA5A5B;
+}
+
+#paragraph-report-page {
+  width: 55%;
+  position: absolute;
+  height: 100%;
+  margin-left: 20%;
+  top: 5rem;
+}
+
+#comment-section {
+  height: 30px;
+  padding: 5px;
+  border: 1px solid grey;
+  margin-top: 50px;
+  width: 80%;
+}
+
+#comment-section:focus {
+  border: 1px solid grey;
+}
+
+.user-comment-section {
+  padding: 10px;
+  border-radius: 30px;
+  width: 80%;
+}
+
+.button-report {
+  margin-left: 68%;
+  color: #FA5A5B;
+}
+
+.button-report:hover {
+  border-bottom: 1px solid #FA5A5B;
+  cursor: pointer;
+}
+
+
+.comment-user-id {
+  font-size: 1.5rem;
+}
+
+.comment-content {
+  color: #282c34;
+  margin-left: 10px;
+}
+
+#comment-section:active {
+  border: 1px solid grey;
+}
+
+#paragraph-report-page textarea {
+  width: 100%;
+  border: none;
+  outline: none;
+  resize: none;
+  overflow: hidden;
+  color: #2e4453;
+  line-height: 1.5;
+  padding: 8px;
+  background-color: #FAFAFA;
+}
+
+#report-page-title {
+  font-size: 2em;
+}
+
+#report-page-content {
+  font-size: 1.5em;
+}
+
+::placeholder {
+  color: #d9d8d8;
+  font-size: 1em;
+}

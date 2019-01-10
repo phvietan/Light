@@ -1,0 +1,17 @@
+.date-time-picker {
+  width: 50%;
+
+}
+
+.date-time-picker table {
+  border-style: solid;
+}
+
+.date-time-picker td {
+  cursor: pointer;
+}
+
+.date-time-picker td:hover {
+  cursor: pointer;
+  background-color: black;
+}

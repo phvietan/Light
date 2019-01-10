@@ -1,0 +1,66 @@
+.course-summary-group {
+  margin: auto;
+  padding: 0;
+  color: #2e4453;
+  cursor: default;
+}
+
+.course-summary-title button {
+  float: right;
+  margin-top: -50px;
+}
+
+.course-summary-title {
+  font-size: 1.2rem;
+  text-align: center;
+}
+
+.course-summary-support-line {
+  margin-left: 4rem;
+  font-size: 1rem;
+  cursor: default;
+  font-style: italic;
+  color: #d9d8d8 !important;
+}
+
+.course-summary-due-date {
+  margin-left: 4rem;
+  color: red;
+  font-weight: bold;
+}
+
+.course-summary-content p {
+  margin-left: 4rem;
+  width: 100%;
+  color: #2e4453;
+  line-height: 1.5rem;
+  font-size: 1rem;
+  cursor: default;
+}
+
+.course-summary-registered {
+  margin-left: 4rem;
+  font-size: 1rem;
+  cursor: default;
+  font-style: italic;
+  color: #d9d8d8 !important;
+}
+
+.feed-time {
+  font-style: italic;
+  font-size: 1rem;
+  color: #d2d2d2;
+}
+
+.feed-continue-button {
+  padding: 10px;
+  margin-top: 10px;
+  text-align: center;
+  border: 2px solid #f44336;
+  transition-duration: 0.4s;
+}
+
+.feed-continue-button:hover {
+  color: white;
+  cursor: pointer;
+}

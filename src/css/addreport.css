@@ -1,0 +1,36 @@
+#add-report-header {
+  color: #FA5A5B;
+  align-items: center;
+}
+
+#paragraph-report {
+  width: 55%;
+  position: absolute;
+  height: 100%;
+  margin-left: 20%;
+  top: 5rem;
+}
+
+#paragraph-report textarea {
+  width: 100%;
+  border: none;
+  outline: none;
+  resize: none;
+  overflow: hidden;
+  color: #2e4453;
+  line-height: 1.5;
+  padding: 8px;
+}
+
+#report-title {
+  font-size: 2em;
+}
+
+#report-content {
+  font-size: 1.5em;
+}
+
+::placeholder {
+  color: #d9d8d8;
+  font-size: 1em;
+}

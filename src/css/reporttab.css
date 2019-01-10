@@ -1,0 +1,31 @@
+.report-tab {
+  color: #282c34;
+  cursor: pointer;
+  padding: 15px;
+  margin-top: 15px;
+}
+
+.report-tab:hover {
+  border-right: 3px solid #FA5A5B;
+}
+
+.report-tab:hover h2 {
+  margin-right: 17px;
+}
+
+.report-tab h1 {
+  font-size: 1.5rem;
+}
+
+.report-tab h3 {
+  color: #FA5A5B;
+  margin-top: 10px;
+}
+
+.report-tab h2 {
+  font-size: 1rem;
+  color: rgb(200, 200, 200);
+  margin-top: -30px;
+  float: right;
+  margin-right: 20px;
+}

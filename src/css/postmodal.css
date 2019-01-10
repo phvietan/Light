@@ -1,0 +1,13 @@
+#post-modal {
+  background-color: white;
+  position: absolute;
+  top: 15%;
+  left: 40%;
+  padding: 1rem;
+}
+
+.post-modal-item span {
+  font-size: 1rem;
+  color: #FA5A5B;
+  text-align: left;
+}

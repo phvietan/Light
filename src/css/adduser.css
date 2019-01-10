@@ -1,0 +1,14 @@
+#add-user-header {
+  align-items: center;
+  color: red;
+  width: 40%;
+  margin-left: 37%;
+}
+
+#add-user-content {
+  width: 60%;
+  position: absolute;
+  height: 100%;
+  margin-left: 15%;
+  top: 5rem;
+}

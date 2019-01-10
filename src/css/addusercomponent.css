@@ -1,0 +1,42 @@
+.add-user-id {
+  margin-left: 2.3rem !important;
+}
+
+.add-user-email {
+  margin-left: 0.8rem !important;
+}
+
+.add-user-type {
+  margin-left: 0.7rem !important;
+}
+
+.add-user-class {
+  margin-left: 1rem !important;
+}
+
+#add-user-component {
+  margin-top: 20px;
+  border-bottom: 0.08rem solid #FA5A5B;
+  padding-bottom: 30px;
+  width: 60%;
+}
+
+#add-user-component input {
+  margin-top: 20px;
+  margin-left: 10px;
+  font-size: 1em;
+  width: 60%;
+  outline: none;
+  border: none;
+  border-bottom: 0.08em solid #9B9B9B;
+  background-color: #FAFAFA;
+  transition: 0.2s;
+}
+
+#add-user-component input:active {
+  border-bottom: 0.08em solid #FA5A5B;
+}
+
+#add-user-component input:focus {
+  border-bottom: 0.08em solid #FA5A5B;
+}

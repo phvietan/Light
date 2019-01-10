@@ -1,0 +1,45 @@
+.feed-group {
+  margin: auto;
+  padding: 0;
+  color: #2e4453;
+  cursor: default;
+}
+
+.feed-title {
+  font-size: 1.2rem;
+}
+
+.feed-title button {
+  float: right;
+  margin-top: -4rem;
+  cursor: pointer;
+}
+
+.feed-content p {
+  width: 100%;
+  color: #2e4453;
+  line-height: 1.5rem;
+  font-size: 1rem;
+  cursor: default;
+  background-color: #FAFAFA;
+}
+
+.feed-time {
+  font-style: italic;
+  font-size: 1rem;
+  color: #d2d2d2;
+}
+
+.continue-button {
+  padding: 10px;
+  text-align: center;
+  color: #FA5A5B;
+  transition: 0.2s;
+  height: 25px;
+}
+
+.continue-button:hover {
+  background-color: #FA5A5B;
+  color: white;
+  cursor: pointer;
+}

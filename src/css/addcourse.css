@@ -1,0 +1,41 @@
+#add-course-header {
+  color: #FA5A5B;
+  align-items: center;
+}
+
+#paragraph-add-course {
+  width: 55%;
+  position: absolute;
+  height: 100%;
+  margin-left: 20%;
+  top: 5rem;
+}
+
+#paragraph-add-course textarea {
+  border: none;
+  outline: none;
+  border-color:transparent;
+  background-color: white;
+  resize: none;
+  overflow: hidden;
+  color: #2e4453;
+  line-height: 1.5;
+  padding: 8px;
+}
+
+#add-course-title {
+  font-size: 2em;
+}
+
+#add-course-name {
+  font-size: 2em;
+}
+
+#add-course-content {
+  font-size: 1.5em;
+}
+
+::placeholder {
+  color: #d9d8d8;
+  font-size: 1em;
+}

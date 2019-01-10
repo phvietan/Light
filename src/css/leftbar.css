@@ -1,0 +1,31 @@
+.left-bar {
+  height: 100%;
+  z-index: 10;
+}
+
+.left-bar-list {
+  margin-left: 25%;
+  width: 55%;
+}
+
+.left-bar-list h2 {
+  padding: 0.3rem 0.3rem 0.3rem 0.3rem;
+  font-size: 0.9rem;
+  color: #818181;
+  display: block;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.left-bar-list h2:hover {
+  border-right: 0.1rem solid #FA5A5B;
+  padding: 0.3rem 0.3rem 0.3rem 0.3rem;
+  transition: 0s;
+}
+
+.left-bar-item h1 {
+  width: 100%;
+  font-size: 1.2rem;
+  cursor: default;
+  border-bottom: 1px solid #FA5A5B;
+}

@@ -1,0 +1,29 @@
+user:
+  _id
+  class
+  type
+  name
+  email *
+  userId *
+  password
+
+courses:
+  _id *
+  code
+  name
+  year
+  semester
+
+news:
+  _id *
+  date
+  title
+  content
+
+userCourse:
+  _id
+  userId,
+  courseId
+
+api: when create a new course, create a folder corresponding to the course
+api: get_file from a course
